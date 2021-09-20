@@ -1,3 +1,6 @@
 [submodule "themes/docport"]
 	path = themes/docport
 	url = https://github.com/vjeantet/hugo-theme-docport.git
+[submodule "themes/themes/docport"]
+	path = themes/themes/docport
+	url = https://github.com/vjeantet/hugo-theme-docport.git
