@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>小山PBL2021</title>
-    <link>https://koyama-pbl-2021.github.io/</link>
+    <link>https://koyama-pbl-2021.github.io/blog/</link>
     <description>Recent content on 小山PBL2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Sep 2021 17:40:45 +0900</lastBuildDate><atom:link href="https://koyama-pbl-2021.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Sep 2021 17:40:45 +0900</lastBuildDate><atom:link href="https://koyama-pbl-2021.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hinome</title>
-      <link>https://koyama-pbl-2021.github.io/post/hinome/</link>
+      <link>https://koyama-pbl-2021.github.io/blog/post/hinome/</link>
       <pubDate>Mon, 20 Sep 2021 17:40:45 +0900</pubDate>
       
-      <guid>https://koyama-pbl-2021.github.io/post/hinome/</guid>
+      <guid>https://koyama-pbl-2021.github.io/blog/post/hinome/</guid>
       <description></description>
     </item>
     
