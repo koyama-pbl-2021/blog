@@ -1,4 +1,4 @@
-baseURL = "https://koyama-pbl-2021.github.io/blog/"
+baseURL = "https://koyama-pbl-2021.github.io/"
 languageCode = "en-us"
 title = "小山PBL2021"
 theme = "docport"
