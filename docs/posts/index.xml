@@ -13,7 +13,7 @@
       <pubDate>Mon, 20 Sep 2021 18:54:35 +0900</pubDate>
       
       <guid>https://koyama-pbl-2021.github.io/blog/posts/oss/</guid>
-      <description></description>
+      <description>{{% alert theme=&amp;ldquo;info&amp;rdquo; %}}this is a text{{% /alert %}}</description>
     </item>
     
   </channel>
